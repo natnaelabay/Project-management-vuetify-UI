@@ -30,7 +30,7 @@ export default {
       projects: [
         {
           title: "Design a new website",
-          person: "The Net Ninja",
+          person: "Natnael",
           due: "1st Jan 2019",
           status: "ongoing",
           content:
@@ -38,7 +38,7 @@ export default {
         },
         {
           title: "Code up the homepage",
-          person: "Chun Li",
+          person: "Kebede",
           due: "10th Jan 2019",
           status: "complete",
           content:
@@ -46,7 +46,7 @@ export default {
         },
         {
           title: "Design video thumbnails",
-          person: "Ryu",
+          person: "Alemu",
           due: "20th Dec 2018",
           status: "complete",
           content:
@@ -54,7 +54,7 @@ export default {
         },
         {
           title: "Create a community forum",
-          person: "Gouken",
+          person: "Chala",
           due: "20th Oct 2018",
           status: "overdue",
           content:
@@ -67,7 +67,7 @@ export default {
     myProjects() {
       return this.projects.filter((project) => {
         return (
-          project.person === "The Net Ninja" && project.status != "complete"
+          project.person === "Natnael" && project.status != "complete"
         );
       });
     },

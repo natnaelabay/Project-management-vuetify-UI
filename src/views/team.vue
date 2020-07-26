@@ -35,18 +35,18 @@ export default {
     return {
       team: [
         {
-          name: "The Net Ninja",
+          name: "Natnael",
           role: "Web developer",
           avatar: "/avatar-1.png",
         },
-        { name: "Ryu", role: "Graphic designer", avatar: "/avatar-2.png" },
+        { name: "Kebede", role: "Graphic designer", avatar: "/avatar-2.png" },
         { name: "Chun Li", role: "Web developer", avatar: "/avatar-3.png" },
         {
-          name: "Gouken",
+          name: "Alemu",
           role: "Social media maverick",
           avatar: "/avatar-4.png",
         },
-        { name: "Yoshi", role: "Sales guru", avatar: "/avatar-5.png" },
+        { name: "Chala", role: "Sales guru", avatar: "/avatar-5.png" },
       ],
     };
   },
