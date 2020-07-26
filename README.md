@@ -1,4 +1,4 @@
-# project-alpha
+# Simple Project Manger UI built based on Vuetify
 
 ## Project setup
 ```
