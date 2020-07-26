@@ -1,16 +1,12 @@
 <template>
   <div class="home">
-    <v-btn dark depressed="" color = "orange">asd asd </v-btn>
-    <v-btn dark>
-      <v-icon>email</v-icon>
-      <span>NAtnael</span>
-    </v-btn>
+    <h1>hompage</h1>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
 
+// @ is an alias to /src
 export default {
   name: 'Home',
   components: {
